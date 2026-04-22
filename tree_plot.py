@@ -13,7 +13,6 @@ from Bio import Phylo
 from Bio.Phylo.BaseTree import Tree
 import collections
 from copy import deepcopy
-from cycler import cycler
 import colorsys
 
 
