@@ -1,3 +1,9 @@
+# Copyright 2026 by Manolo Mischler.
+# All rights reserved.
+#
+# Please see the LICENSE file that should have been included as part of this
+# package.
+
 
 import pandas as pd
 import numpy as np
